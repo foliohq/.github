@@ -1,12 +1,46 @@
-## Hi there 👋
 
-<!--
+![Folio](/imgs/bannerFolio.png)
 
-**Here are some ideas to get you started:**
+[Folio]() is a developer-first platform that transforms your GitHub activity into a professional portfolio and an ATS-optimized resume — always up to date, always ready to share.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Folio analyzes your repositories, commits, and tech stack to generate a **structured developer profile** that evolves as you build.
+
+Folio is built for developers who want:
+- **Always-updated profiles** — your GitHub is your source of truth
+- **Stronger personal branding** — showcase real engineering work, not static CVs
+- **Faster hiring workflows** — generate shareable, recruiter-ready resumes instantly
+
+---
+
+## Getting Started
+<!--- **Web App**: https://folio.dev-->
+- **Repository**: https://github.com/foliohq/folio  
+
+---
+
+## Core Features
+- GitHub-powered developer profile
+- ATS-optimized resume generation
+- Real-time sync with repositories and activity
+<!--- Shareable public profile pages (`folio.dev/@username`)-->
+
+---
+
+## Stack
+- React/Next.js
+- TypeScript
+- Supabase
+- GitHub API
+
+---
+
+## Contributing
+We are actively building Folio and welcome feedback, ideas, and bug reports.
+
+- Report issues: https://github.com/foliohq/folio/issues  
+- Open pull requests: https://github.com/foliohq/folio/pulls  
+
+---
+
+## Contact
+For feedback, partnerships, or questions: @miguelrcha
